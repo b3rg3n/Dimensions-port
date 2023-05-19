@@ -1,0 +1,1 @@
+{"layout": null, "package": "ru.bergen.dimensions", "include_pil": false, "numeric_version": "10101", "expansion": false, "name": "Dimensions!", "source": false, "icon_name": "Dimensions!", "version": "1.1.1", "target_version": 14, "permissions": ["VIBRATE", "INTERNET"], "include_sqlite": false, "store": "none", "orientation": "sensorLandscape"}
